@@ -6,3 +6,8 @@ EXCLUSIVO DO BACKEND:
 - middleware: função que recebe parâmetros req, res, um interceptador da requisição feita ao servidor;
 - req: recebe parâmetros de url para utilizar dentro do código;
 - mongoose: responsável por conexão com o serviço do mongodb
+- Insomnia: alternativa ao Postman usada no projeto
+- Form URL encoded: será usado para transmissão de dados ao invés do JSON devido ao envio de imagens, o que JSON não suporta
+- Instalar na minha máquina: yarn add multer, inicializar nodemon -D, instalar insomnia, yarn add sharp, yarn add cors, yarn add socket.io
+- Biblioteca path do Node é responsável por garantir isonomia de caminhos entre windows, unix, mac, etc
+- Sharp: pack responsável pela manipulação de imagens
