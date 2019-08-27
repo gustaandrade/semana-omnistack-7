@@ -1,0 +1,8 @@
+Arquivo para notas, dúvidas ou conceitos relevantes para estudar com mais calma depois.
+EXCLUSIVO DO BACKEND:
+
+- API REST/RESTful: API que não depende de UI para funcionar, ela apenas consome e retorna textos (pesquisar depois no vídeo a diferença das duas coisas);
+- src: pasta criada para que os arquivos criados por mim fiquem separados dos criados automaticamente pelo sistema;
+- middleware: função que recebe parâmetros req, res, um interceptador da requisição feita ao servidor;
+- req: recebe parâmetros de url para utilizar dentro do código;
+- mongoose: responsável por conexão com o serviço do mongodb
