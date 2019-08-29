@@ -1,0 +1,4 @@
+INSTALLL HOME: yarn add axios, yarn add socket.io-client
+
+- Axios: lib que controla requisições http com configurações 
+- Socket.io client: controla as requisições pelo cliente
